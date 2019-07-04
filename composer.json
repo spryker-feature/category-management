@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "^201906.0",
+    "spryker-feature/spryker-core": "^201907.0",
     "spryker-shop/category-widget": "^1.0.2",
     "spryker/category": "^4.15.0",
     "spryker/category-data-feed": "^0.2.1",
@@ -19,7 +19,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201906.x-dev"
+      "dev-master": "201907.x-dev"
     }
   }
 }
