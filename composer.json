@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "^201903.0",
     "spryker-shop/category-widget": "^1.0.2",
     "spryker/category": "^4.15.0",
     "spryker/category-data-feed": "^0.2.1",
@@ -21,5 +20,8 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/spryker-core": "Recommended feature dependency."
   }
 }
