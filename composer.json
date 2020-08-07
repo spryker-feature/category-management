@@ -7,18 +7,22 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
+    "spryker-shop/category-image-storage-widget": "^1.0.0",
     "spryker-shop/category-widget": "^1.1.0",
     "spryker/category": "^4.15.0",
     "spryker/category-data-feed": "^0.2.1",
     "spryker/category-data-import": "^0.2.1",
     "spryker/category-exporter": "^3.0.2",
     "spryker/category-gui": "^1.0.0",
+    "spryker/category-image": "^1.1.0",
+    "spryker/category-image-gui": "^1.1.0",
+    "spryker/category-image-storage": "^1.3.0",
     "spryker/category-page-search": "^1.4.0",
     "spryker/category-storage": "^1.6.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202006.x-dev"
+      "dev-master": "202008.x-dev"
     }
   },
   "suggest": {
