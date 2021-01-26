@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "spryker-shop/category-image-storage-widget": "^1.0.0",
     "spryker-shop/category-widget": "^1.1.0",
     "spryker/category": "^4.18.0",
@@ -22,7 +22,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202009.x-dev"
+      "dev-master": "202107.x-dev"
     }
   },
   "suggest": {
