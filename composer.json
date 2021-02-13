@@ -17,8 +17,8 @@
     "spryker/category-image": "^1.1.0",
     "spryker/category-image-gui": "^1.1.0",
     "spryker/category-image-storage": "^1.4.0",
-    "spryker/category-page-search": "^1.6.0",
-    "spryker/category-storage": "^1.9.0"
+    "spryker/category-page-search": "^2.0.0",
+    "spryker/category-storage": "^2.0.0"
   },
   "extra": {
     "branch-alias": {
