@@ -15,7 +15,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [CategoriesBackendApi ^0.1.0](https://github.com/spryker/categories-backend-api) (Old API)
-- [CategoriesRestApi ^1.6.0](https://github.com/spryker/categories-rest-api) (Glue)
+- [CategoriesRestApi ^1.7.0](https://github.com/spryker/categories-rest-api) (Legacy Glue)
 - [CategoryExtension ^1.2.0](https://github.com/spryker/category-extension) (Extension)
 - [CategoryGuiExtension ^1.0.0](https://github.com/spryker/category-gui-extension) (Extension)
-- [ProductCategory ^4.17.0](https://github.com/spryker/product-category) (Connector)
+- [ProductCategory ^4.21.0](https://github.com/spryker/product-category) (Connector)
