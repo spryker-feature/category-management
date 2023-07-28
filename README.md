@@ -2,6 +2,8 @@
 
 Manage your product catalog with customized categories, category pages and filters to easily handle and sort your items. All products can be categorized into logical clusters, so that your customers can filter them in the shop.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/category-management-feature-overview.html)
+
 ## Installation
 
 ```
