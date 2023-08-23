@@ -16,7 +16,7 @@ composer require spryker-feature/category-management
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [CategoriesBackendApi ^0.1.0](https://github.com/spryker/categories-backend-api) (Old API)
+- [CategoriesBackendApi ^0.2.0](https://github.com/spryker/categories-backend-api) (Old API)
 - [CategoriesRestApi ^1.7.0](https://github.com/spryker/categories-rest-api) (Legacy Glue)
 - [CategoryExtension ^1.2.0](https://github.com/spryker/category-extension) (Extension)
 - [CategoryGuiExtension ^1.0.0](https://github.com/spryker/category-gui-extension) (Extension)
