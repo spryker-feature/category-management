@@ -20,4 +20,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [CategoriesRestApi ^1.7.0](https://github.com/spryker/categories-rest-api) (Legacy Glue)
 - [CategoryExtension ^1.2.0](https://github.com/spryker/category-extension) (Extension)
 - [CategoryGuiExtension ^1.0.0](https://github.com/spryker/category-gui-extension) (Extension)
-- [ProductCategory ^4.21.0](https://github.com/spryker/product-category) (Connector)
+- [ProductCategory ^4.22.0](https://github.com/spryker/product-category) (Connector)
