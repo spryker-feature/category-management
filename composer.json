@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker-shop/category-image-storage-widget": "^1.0.0",
         "spryker-shop/category-widget": "^1.4.0",
         "spryker/category": "^5.14.0",
