@@ -21,4 +21,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [CategoryDynamicEntityConnector ^1.0.0](https://github.com/spryker/category-dynamic-entity-connector) (Connector)
 - [CategoryExtension ^1.2.0](https://github.com/spryker/category-extension) (Extension)
 - [CategoryGuiExtension ^1.0.0](https://github.com/spryker/category-gui-extension) (Extension)
+- [CategoryMerchantCommissionConnector ^0.1.0](https://github.com/spryker/category-merchant-commission-connector) (Connector)
 - [ProductCategory ^4.24.0](https://github.com/spryker/product-category) (Connector)
