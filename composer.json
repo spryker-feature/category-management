@@ -11,7 +11,7 @@
         "spryker-shop/category-widget": "^1.4.0",
         "spryker/category": "^5.17.0",
         "spryker/category-data-feed": "^0.2.1",
-        "spryker/category-data-import": "^0.3.0",
+        "spryker/category-data-import": "^0.4.0",
         "spryker/category-exporter": "^3.0.2",
         "spryker/category-gui": "^2.5.0",
         "spryker/category-image": "^1.4.0",
