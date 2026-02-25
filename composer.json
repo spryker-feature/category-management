@@ -9,7 +9,7 @@
         "php": ">=8.2",
         "spryker-shop/category-image-storage-widget": "^1.0.0",
         "spryker-shop/category-widget": "^1.5.0",
-        "spryker/category": "^5.21.0",
+        "spryker/category": "^5.22.0",
         "spryker/category-data-feed": "^0.2.1",
         "spryker/category-data-import": "^0.4.0",
         "spryker/category-exporter": "^3.0.2",
@@ -17,12 +17,12 @@
         "spryker/category-image": "^1.5.0",
         "spryker/category-image-gui": "^1.8.0",
         "spryker/category-image-storage": "^1.8.0",
-        "spryker/category-page-search": "^2.4.0",
+        "spryker/category-page-search": "^2.5.0",
         "spryker/category-storage": "^2.11.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202512.x-dev"
+            "dev-master": "202602.x-dev"
         }
     },
     "suggest": {
