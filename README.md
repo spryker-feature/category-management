@@ -22,4 +22,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [CategoryGuiExtension ^1.0.0](https://github.com/spryker/category-gui-extension) (Extension)
 - [CategoryMerchantCommissionConnector ^1.0.0](https://github.com/spryker/category-merchant-commission-connector) (Connector)
 - [CategoryPageSearchExtension ^1.0.0](https://github.com/spryker/category-page-search-extension) (Extension)
-- [ProductCategory ^4.33.0](https://github.com/spryker/product-category) (Connector)
+- [ProductCategory ^4.36.0](https://github.com/spryker/product-category) (Connector)
